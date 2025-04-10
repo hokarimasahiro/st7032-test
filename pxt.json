@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-st7032": "github:hokarimasahiro/pxt-st7032#85e1e3b94b362efefd8c9f978626a74ee507a1fb"
+        "pxt-st7032": "github:hokarimasahiro/pxt-st7032#c54f003962e14f7292b7ae52a0327476b303b083"
     },
     "files": [
         "main.blocks",
